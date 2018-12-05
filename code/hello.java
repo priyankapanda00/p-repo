@@ -1,5 +1,5 @@
 public class hello{
 public static void main(String args[]){
-System.out.println("hello javatpoint");
+System.out.println("initialize local directory with git init");
 }
 }
