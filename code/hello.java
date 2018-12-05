@@ -7,3 +7,4 @@ System.out.println("set the remote repo where local repo should be pushed git re
 System.out.println("push the file to remote repo with git push");
 }
 }
+}
